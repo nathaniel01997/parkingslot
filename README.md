@@ -28,6 +28,7 @@
   rails s or rails server
   
   Start the application:
+  cd parking-app to go in the directory
   npm start
   
   Contributing
